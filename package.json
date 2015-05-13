@@ -1,0 +1,19 @@
+{
+  "name": "hack-a-thon-1",
+  "version": "0.0.0",
+  "description": "What can you build in 3 hours?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aquent-IT-Solutions/hack-a-thon-1"
+  },
+  "author": "Aquent IT Solutions",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aquent-IT-Solutions/hack-a-thon-1/issues"
+  },
+  "homepage": "https://github.com/Aquent-IT-Solutions/hack-a-thon-1"
+}
